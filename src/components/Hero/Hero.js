@@ -16,10 +16,10 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem,
-        veritatis.
+        I have over 900+ hours of web devlopment and can help build any kinda of site or application. 
+        I recently completed an intense bootcamp with Lambda school. 
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <Button onClick={() => (window.location = "https://lambdaschool.com/courses/full-stack-web-development")}>
         Learn More
       </Button>
     </LeftSection>
