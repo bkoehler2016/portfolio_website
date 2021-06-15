@@ -19,7 +19,7 @@ const Hero = () => (
         I have over 900+ hours of web devlopment and can help build any kinda of site or application. 
         I recently completed an intense bootcamp with Lambda school. 
       </SectionText>
-      <Button onClick={() => (window.location = "https://lambdaschool.com/courses/full-stack-web-development")}>
+      <Button onClick={() => (window.location = "https://lambdaschool.com/hire-from-lambda")}>
         Learn More
       </Button>
     </LeftSection>
