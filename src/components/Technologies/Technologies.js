@@ -30,7 +30,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, Redux, HTML, CSS, AngularJS and Javascript
+            React.js, Redux, HTML, CSS, Angular and Javascript
 
           </ListParagraph>
         </ListContainer>
