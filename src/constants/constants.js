@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://peaceful-bell-23f2fd.netlify.app/',
     id: 2,
   },
+  {
+    title: 'Blog Post',
+    description: "A simple blog site built with GatsbyJS",
+      image: '/images/blog_site.png',
+      tags: ['HTML', 'CSS', 'Javascipt', 'React', 'Gatsby'],
+    source: 'https://github.com/bkoehler2016/my-new-gatsby-site',
+    visit: 'https://mynewgatsbysitemain90394.gatsbyjs.io/',
+    id: 3,
+  },
  
 ];
 
