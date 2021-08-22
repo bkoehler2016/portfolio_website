@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Breaking Bad API',
-    description: "A Web Appalication using the Breaking Bad API to pull information and display it in a clean robust method.",
-      image: '/images/BreakingBad.png',
-      tags: ['React', 'Node' , 'Javascript'],
-    source: 'https://github.com/bkoehler2016/breakingbadreact',
-    visit: 'https://bkoehler2016.github.io/breakingbadreact/',
+    title: 'Linkedin Clone',
+    description: "Linkedin clone following the same formats as Linkedin built with firebase for the backend",
+      image: '/images/Linkedin_clone.png',
+      tags: ['React', 'Firebase' ,'Redux', 'Javascript'],
+    source: 'https://github.com/bkoehler2016/linkedin-clone',
+    visit: 'https://linkedin-clone-f6dd4.web.app/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/store.png', 
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/bkoehler2016/shopping-cart',
-    visit: 'https://benstore.netlify.app/',
+    visit: 'https://benstore.netlify.app/', 
     id: 1,
   },
   {
