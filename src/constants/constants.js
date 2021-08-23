@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/Linkedin_clone.png',
       tags: ['React', 'Firebase' ,'Redux', 'Javascript'],
     source: 'https://github.com/bkoehler2016/linkedin-clone',
-    visit: 'https://linkedin-clone-f6dd4.web.app/',
+    visit: 'https://linkedin-clone-bk.netlify.app/',
     id: 0,
   },
   {
