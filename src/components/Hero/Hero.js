@@ -16,10 +16,15 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I have over 900+ hours of web devlopment and can help build any kinda of site or application. 
-        I recently completed an intense bootcamp with Lambda school. 
+        I have over 700+ hours of web devlopment and can help build any kinda of
+        site or application. I recently completed an intense bootcamp with Bloom
+        Tech formerly known as Lambda School.
       </SectionText>
-      <Button onClick={() => (window.location = "https://lambdaschool.com/hire-from-lambda")}>
+      <Button
+        onClick={() =>
+          (window.location = "https://www.bloomtech.com/hire-from-bloomtech")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
