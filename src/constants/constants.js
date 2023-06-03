@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Linkedin clone following the same formats as Linkedin built with firebase for the backend",
     image: "/images/Linkedin_clone.png",
-    tags: ["React", "Firebase", "Redux", "Javascript"],
+    tags: ["React", "Javascript"],
     source: "https://github.com/bkoehler2016/linkedin-clone",
     visit: "https://linkedin-clone-bk.netlify.app/",
     id: 0,
@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A demo store that allows you purchase items and checkout with credit card infromation. Sends confirmation emails to both parties",
     image: "/images/store.png",
-    tags: ["React", "JavaScript"],
+    tags: ["React", "Firebase", "Redux", "JavaScript"],
     source: "https://github.com/bkoehler2016/shopping-cart",
     visit: "https://benstore.netlify.app/",
     id: 1,
